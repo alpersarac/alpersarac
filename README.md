@@ -2,7 +2,7 @@
 <h3 align="center">A person who gets a lot of pleasure out of coding</h3>
 
 <p align="center">
-  ![](https://user-images.githubusercontent.com/12915136/87480122-ab9e5e00-c5fa-11ea-82b1-b4d3340b5c27.png)
+  ![9dzj](https://github.com/alpersarac/Recipe/assets/50145163/98fe7859-9fcc-48c9-b29e-3b886a7e9e93)
 
 </p>
 
