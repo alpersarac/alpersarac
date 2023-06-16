@@ -2,8 +2,7 @@
 <h3 align="center">A person who gets a lot of pleasure out of coding</h3>
 
 <p align="center">
-  ![9dzj](https://github.com/alpersarac/Recipe/assets/50145163/98fe7859-9fcc-48c9-b29e-3b886a7e9e93)
-
+  <img src="https://github.com/alpersarac/Recipe/assets/50145163/98fe7859-9fcc-48c9-b29e-3b886a7e9e93" title="Scene from Immitation Game. Alan Turing" alt="9dzj">
 </p>
 
 <h3 align="left">Connect with me:</h3>
