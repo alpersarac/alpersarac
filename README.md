@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">Person who got a lot of pleasure out of coding</h3>
+<h3 align="center">A person who gets a lot of pleasure out of coding</h3>
+
 <p align="center">
- ![Coding GIF](https://i.gifer.com/9dzj.gif)
+  <img src="https://i.gifer.com/9dzj.gif" alt="Coding GIF">
 </p>
 
 <h3 align="left">Connect with me:</h3>
