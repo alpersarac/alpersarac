@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">Person who got a lot of pleasure out of coding</h3>
-<p align="center">![](https://i.gifer.com/9dzj.gif) </p>
-<p align="left"> ![hippo](https://i.gifer.com/9dzj.gif) </p>
+![Coding GIF](https://i.gifer.com/9dzj.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
