@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">Person who got a lot of pleasure out of coding</h3>
-<img align="center" target="blank" src="https://i.gifer.com/9dzj.gif">
+<p align="center"> <img src="https://i.gifer.com/9dzj.gif" align="center"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpersarac&label=Profile%20views&color=0e75b6&style=flat" alt="alpersarac" /> </p>
 
 <h3 align="left">Connect with me:</h3>
