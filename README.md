@@ -1,7 +1,7 @@
 <p align="center">
 💫 About Me:<br><br>
 A person who gets a lot of pleasure out of coding<br><br>
-🔭 I’m currently working on a Typescript project<br>👯 I’m looking to collaborate on new positions in Europe <br>🌱 I’m currently learning AWS<br>
+🔭 I’m currently working on a Typescript project<br>👯 I’m looking to collaborate on new positions in Europe <br>🌱 I’m currently learning Typescript<br>
 </p>
 <p align="center">
   <img src="https://github.com/alpersarac/Recipe/assets/50145163/98fe7859-9fcc-48c9-b29e-3b886a7e9e93" title="Scene from Immitation Game. Alan Turing" alt="9dzj">
