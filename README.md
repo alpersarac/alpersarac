@@ -4,7 +4,7 @@ A person who gets a lot of pleasure out of coding and learning<br><br>
  I’m currently working on a Typescript project<br> I’m looking to collaborate on new positions in Europe <br> I’m currently learning Typescript<br>
 </p>
 <p align="center">
-  <img src="https://github.com/alpersarac/alpersarac/assets/50145163/99f6b395-7914-4dbc-af9d-1faeddb2c6c3" title="Scene from Immitation Game. Alan Turing" alt="9dzj">
+  <img src="https://github.com/alpersarac/alpersarac/assets/50145163/99f6b395-7914-4dbc-af9d-1faeddb2c6c3" title="Scene from Immitation Game. Alan Turing and Enigma" alt="9dzj">
 </p>
 
 ## 🌐 Socials:
